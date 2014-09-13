@@ -1,0 +1,31 @@
+{
+  "name": "am-flex-embed",
+  "description": "CSS Flex Embed for radio preservation",
+  "version": "0.1.0",
+  "style": "index.css",
+  "files": [
+    "index.css",
+    "lib"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/VinSpee/am-FlexEmbed.git"
+  },
+  "keywords": [
+    "browser",
+    "css-components",
+    "am",
+    "crank",
+    "style"
+  ],
+  "author": "Vince Speelman",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/vinspee/am-FlexEmbed/master/LICENSE"
+    }
+  ]
+}
